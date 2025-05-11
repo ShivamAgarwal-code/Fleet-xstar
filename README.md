@@ -1,6 +1,6 @@
 # Fleet XStar
 
-## (Deployed Contract Link on Soneium Minato)[https://soneium-minato.blockscout.com/tx/0xe70ecdf08909f8da4b70e8af48ae66bd01957093d1532f1949ebebd6bcb89fba]
+## [Deployed Contract Link on Soneium Minato](https://soneium-minato.blockscout.com/tx/0xe70ecdf08909f8da4b70e8af48ae66bd01957093d1532f1949ebebd6bcb89fba)
 
 ## Objective 
 
