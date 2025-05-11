@@ -2,6 +2,8 @@
 
 ## [Deployed Contract Link on Soneium Minato](https://soneium-minato.blockscout.com/tx/0xe70ecdf08909f8da4b70e8af48ae66bd01957093d1532f1949ebebd6bcb89fba)
 
+## [Live Link](http://3.148.252.122:3000/#/)
+
 ## Objective 
 
 The primary objective of the ‘Fleet XSTAR’ Defi-platform on the Soneium blockchain is to fuse engaging gameplay with essential Web3 infrastructure components like human verification and decentralized identity management. It seeks to demonstrate how entertainment and utility can coexist, offering players a gamified method to establish their decentralized identity while enjoying an immersive experience.
