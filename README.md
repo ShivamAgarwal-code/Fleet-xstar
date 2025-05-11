@@ -4,7 +4,7 @@
 
 ## Objective 
 
-The primary objective of the ‘Fleet XSTAR’ mini-game on the Soneium blockchain is to fuse engaging gameplay with essential Web3 infrastructure components like human verification and decentralized identity management. It seeks to demonstrate how entertainment and utility can coexist, offering players a gamified method to establish their decentralized identity while enjoying an immersive experience.
+The primary objective of the ‘Fleet XSTAR’ Defi-platform on the Soneium blockchain is to fuse engaging gameplay with essential Web3 infrastructure components like human verification and decentralized identity management. It seeks to demonstrate how entertainment and utility can coexist, offering players a gamified method to establish their decentralized identity while enjoying an immersive experience.
 
 At its core, the initiative aims to address a growing need for user authenticity in Web3 environments without compromising user privacy or experience. By wrapping identity protocols in a fun mini-game, users are more likely to participate, ensuring a wider adoption of decentralized identity (DID) systems. The experience is designed to be accessible and intuitive, encouraging even those unfamiliar with blockchain tech to engage with and benefit from it.
 
